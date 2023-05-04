@@ -37,3 +37,6 @@
   background: aquamarine;
   border: none;
 }
+.navbar ul a {
+  text-decoration: none;
+}
